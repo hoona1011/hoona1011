@@ -2,7 +2,7 @@
 
 <p align="center">
   
-<h3 align="center">안녕하세요? React 프론트엔드 개발자 박지훈입니다🙂</h3>
+<h3 align="center">안녕하세요? 프론트엔드 개발자 박지훈입니다🙂</h3>
 
 </p>
 
